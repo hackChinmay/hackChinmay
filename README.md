@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DA55F&height=220&section=header&text=Chinmay%20Agrawal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20Development&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DA55F&height=220&section=header&text=Chinmay%20Agrawal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Applied%20AI&descAlignY=58&descSize=17" width="100%"/>
+
+<br/>
 
 <a href="https://linkedin.com/in/chinmay-agrawal-427012232">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,9 +18,7 @@
 
 <br/>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/ChinmayRT/animated-gifs/master/dev.gif" alt="coding animation"/>
-
-### 👋 About Me
+## 👋 About Me
 
 ```yaml
 name: Chinmay Agrawal
@@ -28,30 +28,14 @@ cgpa: 8.26/10.0
 focus:
   - Software Engineering
   - Full-Stack Development
-  - Backend Development
-  - Applied AI Systems
-
-building:
-  - Full-stack web applications
-  - Scalable backend services
-  - Data-driven software systems
-  - Interactive developer-focused products
+  - Backend Systems
+  - Applied AI
 
 currently:
   - Google Student Ambassador
-  - Building and improving full-stack projects
+  - Building full-stack products
   - Exploring software engineering and system design
 
-featured_projects:
+featured:
   - TRUEWEAR — F1 Race Analytics & Tyre Intelligence
   - FlowFi — Full-Stack Personal Finance Platform
-
-achievements:
-  - Top 70 teams from 3,800+ at TrackShift '26
-  - Smart India Hackathon — Qualified among top teams
-  - Google Cloud Certified — Generative AI Leader
-
-open_to:
-  - Software Engineering Internships
-  - Full-Stack Development Opportunities
-  - Open-source Collaboration
