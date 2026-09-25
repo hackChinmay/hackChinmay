@@ -1,15 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on full-stack applications, AI projects & developer tools<br>👯 I’m looking to collaborate on AI/ML, web development & open-source projects<br>🤝 I’m looking for help with building scalable, production-ready solutions<br>🌱 I’m currently learning React, TypeScript, AI/ML, DSA & software engineering<br>💬 Ask me about React, UI/UX, hackathons, robotics & open source<br>⚡ Fun fact: I love turning complex ideas into simple, interactive experiences
- 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hackChinmay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hackChinmay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hackChinmay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DA55F&height=220&section=header&text=Chinmay%20Agrawal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20Development&descAlignY=58&descSize=18" width="100%"/>
 
----
-[![](https://komarev.com/ghpvc/?username=hackChinmay&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://linkedin.com/in/chinmay-agrawal-427012232">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:chinmayagrawal30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/hackChinmay">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/ChinmayRT/animated-gifs/master/dev.gif" alt="coding animation"/>
+
+### 👋 About Me
+
+```yaml
+name: Chinmay Agrawal
+education: B.Tech Information Technology @ VIT Vellore
+cgpa: 8.26/10.0
+
+focus:
+  - Software Engineering
+  - Full-Stack Development
+  - Backend Development
+  - Applied AI Systems
+
+building:
+  - Full-stack web applications
+  - Scalable backend services
+  - Data-driven software systems
+  - Interactive developer-focused products
+
+currently:
+  - Google Student Ambassador
+  - Building and improving full-stack projects
+  - Exploring software engineering and system design
+
+featured_projects:
+  - TRUEWEAR — F1 Race Analytics & Tyre Intelligence
+  - FlowFi — Full-Stack Personal Finance Platform
+
+achievements:
+  - Top 70 teams from 3,800+ at TrackShift '26
+  - Smart India Hackathon — Qualified among top teams
+  - Google Cloud Certified — Generative AI Leader
+
+open_to:
+  - Software Engineering Internships
+  - Full-Stack Development Opportunities
+  - Open-source Collaboration
