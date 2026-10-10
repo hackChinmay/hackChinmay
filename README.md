@@ -109,11 +109,12 @@ A personal finance application designed to help users manage transactions and un
 
 </div>
 
+
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hackChinmay/hackChinmay/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackChinmay&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
