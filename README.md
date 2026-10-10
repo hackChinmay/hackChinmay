@@ -110,15 +110,6 @@ A personal finance application designed to help users manage transactions and un
 </div>
 
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackChinmay&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
-*To activate the contribution animation, configure a GitHub Actions workflow to generate and publish the SVG to an `output` branch.*
 
 ## 🌱 Beyond Code
 
